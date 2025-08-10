@@ -12,7 +12,7 @@ header{
     text-align: center;
     color: #002147;
     margin: 5px;
-    border-radius: 80px 25px 80px 25px;
+    border-radius: 80px 0px 80px 0px;
 }
 
 .position{
@@ -32,7 +32,7 @@ nav {
     padding: 6px 20px;
     display: flex;
     border: 3px solid #FFC400;
-    border-radius: 80px 25px 80px 25px;
+    border-radius: 80px 0px 80px 0px;
    
     align-items: center;
     font-weight: bold;
@@ -130,5 +130,9 @@ nav a:hover {
 
 .address{
  text-align: right;
+}
+.banner{
+    padding-top:120px ;
+    padding-bottom: 120px;
 }
 
