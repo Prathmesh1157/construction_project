@@ -85,6 +85,7 @@ nav a:hover {
   
    box-shadow: 10px 10px 10px 3px #302810;
    margin: 20px 60px 60px 60px;
+   transition: transform 3s ease;
 }
  .topic{
     text-align: center;
@@ -101,6 +102,9 @@ padding-left: 900px;
 }
 .Ingredients1{
     text-align: right;
+}
+.images:hover{
+    transform: scale(1.1);
 }
 
 
