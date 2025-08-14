@@ -18,6 +18,7 @@ header{
 .position{
     position: sticky;
     top: 0px;
+    
 }
 
 .nav-container {
@@ -58,7 +59,17 @@ nav a:hover {
 .section1{
     padding-left: 300px;
 }
-
+.circle-photo{
+   display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items:center;
+    justify-content: space-around;
+}
+.indexphoto{
+    
+}
 
 
 
@@ -69,6 +80,8 @@ nav a:hover {
     text-align: center;
     height: 220px;
     width: 900px;
+    justify-content: center;
+    justify-items: right;
  }
 
 
