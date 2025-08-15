@@ -66,12 +66,22 @@ nav a:hover {
     justify-content: center;
     justify-items:center;
     justify-content: space-around;
-}
-.indexphoto{
     
 }
 
-
+#photo1{
+  
+ 
+    border:2px solid black;
+    border-radius: 12px 12px 12px 12px ;
+    
+    box-shadow: 3px 4px 4px 3px grey;
+    text-align: center;
+   transition: transform 3s ease;
+}
+#photo1:hover {
+   transform: scale(1.1); 
+}
 
 
 
