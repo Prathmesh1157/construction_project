@@ -94,6 +94,17 @@ nav a:hover {
     justify-items: right;
  }
 
+.images1 {
+  
+   box-shadow: 10px 10px 10px 3px #302810;
+   margin: 20px 60px 60px 60px;
+   transition: transform 3s ease;
+ 
+}
+.images1:hover{
+    transform: scale(1.1);
+}
+
 
 
 
